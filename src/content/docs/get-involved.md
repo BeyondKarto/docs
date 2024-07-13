@@ -93,4 +93,74 @@ _algorhithm_:
 3. Make observations if a projects belongs to particular category (infrastructure - providing broader protocol toolkit for different decentralised implementations).
 4. If project nature differs from category where it exists - move it to the right category.
 
+#  Ranks
+
+1. ## Starter
+   - Criteria:
+     - Newcomer to the community.
+     - Little experience in technical aspects of cypherpunk.
+     - Shows a desire to learn more about the topic.
+   - Contributions:
+     - Participation in basic educational events.
+     - Sharing information about the community on their social media.
+     - Recruiting new members to the community.
+     - Asking questions and actively discussing on forums and chats.
+
+2. ## Seeker
+   - Criteria:
+     - Non-technical specialist but has a strong desire to learn.
+     - Knowledge of free and open-source software (FOSS) and its usage.
+     - Ability to navigate the cypherpunk sphere.
+   - Contributions:
+     - Organizing and participating in educational events.
+     - Supporting new members.
+     - Spreading information about the benefits of cypherpunk culture.
+     - Contributing ideas for community development.
+
+3. ## Enthusiast
+   - Criteria:
+     - Deep knowledge of social movements and basics of cypherpunk culture.
+     - Can code at a basic level.
+     - Willingness to actively participate in the community.
+   - Contributions:
+     - Blogging or creating content on cypherpunk topics.
+     - Interacting with newcomers, providing advice and support.
+     - Participating in conferences, seminars, and workshops.
+     - Developing basic projects and tools for the community.
+
+4. ## Ambassador
+   - Criteria:
+     - High level of technical knowledge and coding skills.
+     - Deep understanding of surveillance capitalism and cypherpunk culture.
+     - Active participation in promoting the community.
+   - Contributions:
+     - Representing the community at national and international events.
+     - Conducting training sessions and workshops.
+     - Developing and maintaining open-source projects.
+     - Writing articles and research on cypherpunk and privacy topics.
+
+5. ## Practitioner
+   - Criteria:
+     - Maximum level of technical knowledge and coding skills.
+     - High level of understanding of the economic aspects of cypherpunk.
+     - Desire for practical implementation of knowledge.
+   - Contributions:
+     - Developing and maintaining complex technical solutions for the community.
+     - Providing consultations and mentoring for other members.
+     - Participating in the development of community growth strategies.
+     - Implementing new technologies and methods for privacy protection.
+
+ Rank Assignment Procedure
+
+1. Participant Questionnaire: The participant fills out a questionnaire indicating their experience, knowledge, and motivation.
+2. Interview: The participant undergoes an interview with a community curator or committee that evaluates their competence.
+3. Probation Period: The participant completes certain tasks or participates in projects for a specified period.
+4. Decision: Based on the results of the questionnaire, interview, and probation period, the committee decides on the rank assignment.
+
+ Support and Motivation
+
+- Rewards: Financial, social, networking awards
+- Access to resources: Additional training materials, tools, closed groups.
+- Career development: Recommendations for participation in large projects and close work with crypto projects.
+
 ## Enjoy everything!
